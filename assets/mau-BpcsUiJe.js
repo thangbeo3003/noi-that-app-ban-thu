@@ -1,0 +1,1 @@
+import{C as r}from"./three-Bl3z3At1.js";const o=new Map;function n(t){let e=o.get(t);return e||(e=new r(getComputedStyle(document.documentElement).getPropertyValue(t).trim()||"currentColor"),o.set(t,e)),e}export{n as m};

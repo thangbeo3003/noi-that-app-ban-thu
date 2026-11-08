@@ -1,0 +1,1 @@
+.khong-thay{display:grid;align-content:center;min-height:calc(100svh - var(--ds-topbar-h))}.khong-thay__nut{display:flex;flex-wrap:wrap;justify-content:center;gap:var(--ds-space-3);margin-top:var(--ds-space-3)}
